@@ -8,8 +8,8 @@ I have experience working across a range of programming languages and technologi
 
 Programming Languages:
 
-Java, C++, Python, SQL
-HTML, CSS, JavaScript
+Java, C++, Python, SQL,
+HTML, CSS, JavaScript,
 Linux Scripting, Assembly
 
 Technical Proficiencies:
@@ -29,8 +29,8 @@ Developed an AI-based assistant to help users write and refine essays, paragraph
 🔹 AI Genre Enhancement Model:
 Fine-tuned GPT-2 to transform short sentences into captivating genre-specific outputs. Utilized 2,250 unique prompts across detective, sci-fi, and fantasy genres.
 
-🔹 Roguelike Multi-Genre Game (In Development):
-Currently designing a game where players navigate through levels featuring card games, 2D platformers, and more, with mechanics carrying over between genres.
+🔹 Fishing Game (In Development):
+Currently designing a cosy co-op game where players get to relax, have fun with friends and throw a couple rods into the sea, trying to catch the odd fish in the process.
 
 Get in Touch
 📧 Email: nicculverwell@gmail.com
