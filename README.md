@@ -1,6 +1,5 @@
 Hi, I’m Nicholas Culverwell 👋
 
-About Me:
 I'm a Computer Science student at the University of KwaZulu-Natal with a passion for coding, video games, fantasy novels, and sports. I thrive at the intersection of creativity and logic, where I use my skills to tackle challenging problems, develop engaging projects, and explore innovative solutions.
 
 What I Bring to the Table:
